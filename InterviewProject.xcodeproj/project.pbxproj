@@ -67,6 +67,7 @@
 		AE0F02C52764EFB40087A167 /* APICallerProtocol.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = APICallerProtocol.swift; sourceTree = "<group>"; };
 		AE0F02C72764F16A0087A167 /* PhotoSearchCellViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PhotoSearchCellViewModel.swift; sourceTree = "<group>"; };
 		AE0F02CE27650BC60087A167 /* Extension+UIImageView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Extension+UIImageView.swift"; sourceTree = "<group>"; };
+		AE56B38C2E453B4700F598B2 /* Testing.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = Testing.md; sourceTree = "<group>"; };
 		AEBBBC1D2766632E00D0ACFA /* PhotoCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PhotoCell.swift; sourceTree = "<group>"; };
 		AEBBBC1E2766632E00D0ACFA /* PhotoCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = PhotoCell.xib; sourceTree = "<group>"; };
 		AEBBBC212766DC9B00D0ACFA /* PhotoDetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PhotoDetailViewController.swift; sourceTree = "<group>"; };
@@ -212,6 +213,7 @@
 			children = (
 				AE0F028C2761A07E0087A167 /* SearchTableViewController.swift */,
 				AEBBBC212766DC9B00D0ACFA /* PhotoDetailViewController.swift */,
+				AE56B38C2E453B4700F598B2 /* Testing.md */,
 			);
 			path = ViewControllers;
 			sourceTree = "<group>";
